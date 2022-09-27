@@ -6,4 +6,4 @@
 - Check out posts from other users. You can add posts to your favorites
 - Delete or edit your posts
 
-(Hack or Snooze)(https://aycetiner.github.io/hack-or-snooze-ajax-api/)
+[Hack or Snooze](https://aycetiner.github.io/hack-or-snooze-ajax-api/)
