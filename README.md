@@ -2,7 +2,7 @@
 
 ## Summary
 
-Inspired by the famous social news website focusing on computer science and entrepreneurship, HackerNews. This front-end app uses Ajax to interact with an API
+Inspired by the famous social news website focusing on computer science and entrepreneurship, HackerNews, this front-end app uses Ajax to interact with an API
 
 With this app you can:
 - A front-end app uses Ajax to interact with an API
