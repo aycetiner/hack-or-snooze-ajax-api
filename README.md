@@ -24,7 +24,7 @@ With this app you can:
 
 ## License
 
-[![MIT License][license-img]](https://github.com/aycetiner/hack-or-snooze-ajax-api/blob/main/LICENSE)
+[![MIT License][License-img]](https://github.com/aycetiner/hack-or-snooze-ajax-api/blob/main/LICENSE)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -74,4 +74,4 @@ With this app you can:
 [javascript-url]: https://www.javascript.com/
 [html.com]: https://img.shields.io/badge/-HTML5-EEEEEE?style=for-the-badge&logo=html5&logoColor=E64A19
 [html-url]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
-[license-img]: https://img.shields.io/apm/l/l
+[License-img]:https://img.shields.io/badge/license-MIT-blue
